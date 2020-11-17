@@ -1,4 +1,4 @@
-# Most_used_words_in_pdf
+# Most used_words in pdf
 
 ## What is it?
 This small tool extracts the most used words (excluding "stopwords", punctuation and numbers) from a pdf. 
