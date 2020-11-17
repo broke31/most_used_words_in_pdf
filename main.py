@@ -19,7 +19,6 @@ if __name__ == '__main__':
     name_file_final = "Total Frequencies"
     path_out = "outputs/"
     paths = ("outputs", "freq", "figures")
-    print(stopwords.words())
     namesFile = get_file_names(path=".")
     for path in paths:
         check = pathlib.Path(path)
