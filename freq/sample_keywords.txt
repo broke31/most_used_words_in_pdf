@@ -1,0 +1,1 @@
+[('text', 40), ('boring', 4), ('pdf', 3), ('file', 3), ('simple', 2), ('continued', 2), ('page', 2), ('small', 1), ('demonstration', 1), ('use', 1), ('virtual', 1), ('mechanics', 1), ('tutorials', 1), ('zzzzz', 1), ('even', 1), ('yet', 1), ('oh', 1), ('typing', 1), ('stuff', 1), ('watching', 1), ('paint', 1), ('dry', 1), ('little', 1), ('end', 1), ('well', 1)]

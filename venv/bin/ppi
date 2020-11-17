@@ -1,0 +1,5 @@
+#!/home/broke31/PycharmProjects/pythonProject/venv/bin/python
+
+from converter.menu import print_menu
+
+print_menu()

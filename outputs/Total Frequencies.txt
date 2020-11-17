@@ -1,0 +1,1 @@
+[('text', 40), ('pdf', 11), ('file', 8), ('files', 6), ('boring', 4), ('adobe', 4), ('acrobat', 3), ('document', 3), ('format', 3), ('fonts', 3), ('simple', 2), ('continued', 2), ('page', 2), ('graphics', 2), ('source', 2), ('regardless', 2), ('platform', 2), ('used', 2), ('create', 2), ('electronic', 2), ('anyone', 2), ('open', 2), ('free', 2), ('reader', 2), ('always', 2)]
